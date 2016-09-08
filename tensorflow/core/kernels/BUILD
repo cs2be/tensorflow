@@ -1953,6 +1953,12 @@ filegroup(
         "unpack_op.cc",
         "variable_ops.cc",
         "variable_ops.h",
+        "tensor_array.h",
+        "tensor_array.cc",
+        "tensor_array_ops.cc",
+        "reduction_ops_all.cc",
+        "logging_ops.cc",
+        "cwise_op_greater_equal.cc"
     ],
 )
 
